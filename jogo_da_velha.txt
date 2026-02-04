@@ -3,3 +3,5 @@
  X | O | -
 -----------
  X | O | -
+
+ X foi vencedor!
